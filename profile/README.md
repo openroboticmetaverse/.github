@@ -1,6 +1,6 @@
-# Open Robotic Metaverse
+# open robotic metaverse
 ### **Who are we?**
-We are Open Robotic Metaverse, a student initiative currently in the founding process. Our founders are students from RWTH Aachen University and FH Aachen and highly motivated to strengthen the robotic community in and outside of Aachen, Germany.
+We are open robotic metaverse, a student initiative currently in the founding process. Our founders are students from RWTH Aachen University and FH Aachen and highly motivated to strengthen the robotic community in and outside of Aachen, Germany.
 
 ![Open Roboverse Logo](https://raw.githubusercontent.com/openroboverse/knowledge-base/main/docs/assets/icon.png)
 
