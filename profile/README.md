@@ -47,9 +47,10 @@ We're always looking for passionate individuals to join our cause! Whether you'r
 
 ## Call to Action
 
-Ready to be a part of the robotics revolution? Join us at the Open Robotic Metaverse. Together, we can shape the future of robotics, making it more open, accessible, and innovative than ever before. [Get started now!](https://github.com/openroboverse)
+Ready to be a part of the robotics revolution? Join us at the Open Robotic Metaverse. Together, we can shape the future of robotics, making it more open, accessible, and innovative than ever before. [Get in touch!](https://openroboticmetaverse.org/contact)
 
 <!-- Badges for quick stats -->
-![GitHub Org's stars](https://img.shields.io/github/stars/openroboticmetaverse) ![GitHub followers](https://img.shields.io/github/followers/openroboticmetaverse)  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fopenroboticmetaverse.org%2F)
+[![GitHub Org's stars](https://img.shields.io/github/stars/openroboticmetaverse)](https://github.com/openroboticmetaverse) [![GitHub followers](https://img.shields.io/github/followers/openroboticmetaverse)](https://github.com/openroboticmetaverse)  [![Website](https://img.shields.io/website?url=https%3A%2F%2Fopenroboticmetaverse.org%2F)](https://openroboticmetaverse.org/)
+
 
 
