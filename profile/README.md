@@ -1,18 +1,3 @@
-# open robotic metaverse
-### Introduction 
-In today’s rapidly evolving technological landscape, robotics stands at the forefront of innovation, driving advancements across numerous sectors. However, the journey into robotics is fraught with barriers, notably the steep
-learning curve and the substantial investment. Recognizing these challenges, we propose the creation of an open
-robotic metaverse—a web-based collaborative platform designed to revolutionize how individuals and organizations
-engage with robotics. By leveraging the power of open-source tools, our project aims to make robotics universally
-accessible, fostering a community of collaboration among students, researchers, and professionals alike. This initiative not only democratizes access to robotics but also harnesses the collective intelligence of a global community to
-push the boundaries of what is possible in this field
-
-![Open Roboverse Logo](https://raw.githubusercontent.com/openroboverse/knowledge-base/main/docs/assets/icon.png)
-
-### **Vision**
-
-We aim to **accelerate the development of robotic applications** by making use of the advancements in Simulation technology and Artificial Intelligence. We support individuals in acquiring skills and knowledge in this field and connect them with companies in search of solution implementers, while building a connected passionate community.
-
 # Open Robotic Metaverse
 
 ## Introduction
