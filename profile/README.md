@@ -1,4 +1,4 @@
-# Open Robotic Metaverse
+# open robotic metaverse
 
 ## Introduction
 
@@ -10,7 +10,7 @@ In today’s fast-paced technological evolution, robotics emerges as a key drive
 
 Our mission is to **accelerate the development of robotic applications**, harnessing advancements in simulation technology and artificial intelligence. We empower individuals with the skills and knowledge needed in this burgeoning field, facilitating connections with companies seeking innovative solutions. At the core of our initiative is a passionate community, united in the pursuit of pushing technological boundaries.
 
-## Why Open Robotic Metaverse?
+## Why open robotic metaverse?
 
 - **Democratizing Robotics**: Making robotics more accessible to everyone, regardless of background or experience level.
 - **Collaboration at Scale**: Building a platform for students, researchers, and professionals to collaborate and share insights.
