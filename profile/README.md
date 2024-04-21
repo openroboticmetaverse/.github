@@ -8,7 +8,7 @@ In today’s rapidly evolving technological landscape, robotics stands at the fo
 
 ## Vision
 
-By leveraging the power of open-source tools, our project aims to make robotics universally accessible, fostering a community of collaboration among students, researchers, and professionals alike. This initiative not only democratizes access to robotics but also harnesses the collective intelligence of a global community to push the boundaries of what is possible in this field.
+By leveraging the power of open-source tools, our project aims to make robotics universally accessible, fostering a community of collaboration among students, researchers, and professionals alike. This initiative not only democratizes access to robotics but also harnesses the collective intelligence of a global community to push the boundaries of what is possible in this field.
 
 ## Why open robotic metaverse?
 
