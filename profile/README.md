@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In today’s rapidly evolving technological landscape, robotics stands at the forefront of innovation, driving advancements across numerous sectors. However, the journey into robotics is fraught with barriers, notably the steep learning curve and the substantial investment. Recognizing these challenges, we propose the creation of an open robotic metaverse—a web-based collaborative platform designed to revolutionize how individuals and organizations engage with robotics
+In today’s rapidly evolving technological landscape, robotics stands at the forefront of innovation, driving advancements across numerous sectors. However, the journey into robotics is fraught with barriers, notably the steep learning curve and the substantial investment. Recognizing these challenges, we propose the creation of an open robotic metaverse—a web-based collaborative platform designed to revolutionize how individuals and organizations engage with robotics
 
 ![Open Roboverse Logo](https://raw.githubusercontent.com/openroboverse/knowledge-base/main/docs/assets/icon.png)
 
